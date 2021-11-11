@@ -1,4 +1,5 @@
-## Repository containing source code for Civil Engineering Major Project, NITK for 7th Semester of Rohit Handique (181CV135), Nayanish Lokesh (181CV120) & Suraj Kumar L()
+## Repository containing source code for 7th Semester Civil Engineering Major Project
+### Members - Rohit Handique (181CV135), Nayanish Lokesh (181CV120) & Suraj Kumar L()
 
 - CSV folder contains both .pql files and exported & converted CSV files for the same
 - structure for the CSV folder is - root
